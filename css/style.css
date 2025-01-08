@@ -1,0 +1,33 @@
+body {
+    font-size: 14px;
+    background-color: #f8f9fa;
+}
+.panel {
+    border: 1px solid #5cb85c;
+    border-radius: 5px;
+    padding: 15px;
+}
+.panel-heading {
+    font-size: 18px;
+}
+.panel-body {
+    padding: 20px;
+}
+.form-group label {
+    font-size: 14px;
+    font-weight: bold;
+}
+.form-group legend {
+    font-size: 14px;
+    font-weight: bold;
+}
+.form-control {
+    font-size: 14px;
+}
+.btn {
+    font-size: 14px;
+}
+.table th, .table td {
+    font-size: 14px;
+    text-align: center;
+}
