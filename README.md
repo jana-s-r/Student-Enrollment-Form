@@ -37,3 +37,8 @@ Retrieve All Information from studentsDetails Table:
   SELECT * FROM studentsDetails;
 
 ```
+
+## Main interface
+<img width="1604" src="./Images/1.png">
+<img width="1604" src="./Images/2.png">
+<img width="1604" src="./Images/3.png">
